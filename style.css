@@ -1,0 +1,222 @@
+/* RESET AND PAGE STYLES */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fdbfd2;
+  margin-bottom: 100px;
+}
+
+/* TEXT STYLES */
+
+h1 {
+  color: #e84aa9; /* Light Baby Pink */
+  font-family: "Libre Baskerville", serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 8vw;
+  z-index: 1;
+  margin-top: 16vw;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Charm";
+  font-size: 3.5vw;
+  color: #e74aa9; 
+}
+
+h3 {
+  text-align: center;
+  font-family: "Charm";
+  font-size: 3.5vw;
+  color: #E467B1;  
+}
+
+p {
+  font-family: "Gadugi";
+  font-size: 3vw;
+  color:#E467B1 ;
+  text-align: center;
+  margin-left: 8em;
+  margin-right: 8em;
+}
+
+a {
+  color:#fb7eaa;
+}
+
+button {
+  background-color: #f49ec7;
+  border: 8px solid #dfb3cd;
+  font-size: 2vw;
+  margin-left: 3em;
+  font-family: "Charm";
+  text-decoration-thickness: 0px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 20px;
+  align-items: center;
+  justify-content: center;
+  color: #d24198; /* Light Baby Pink */
+}
+  
+.resourceButtons:hover {
+  text-decoration: none;
+  cursor: pointer;
+  background-color: #febed3;
+  color: #f5a3ea; 
+}
+
+.resourceButtons:active {
+  text-decoration: none;
+}
+
+
+.header {
+  position: relative;
+  text-align: center; 
+}
+
+  .firstPics{
+  position: absolute;
+  width: 100%;
+  max-height: 100%;
+  opacity: 0.3;
+  z-index: -15;
+  top: 5vw;
+  padding-right: 10px;
+  margin-right: 0px;
+ 
+}
+
+ul {
+  list-style-type: none;
+  background-color: #e5668c;
+  overflow: hidden;
+  padding: 1em;
+  text-align: center;
+  margin: 0;
+  position: relative;  
+}
+
+
+li {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: white;
+  font-size: 2vw;
+  padding: 25px;
+  display: inline;
+  font-family: "Elsie", monospace;
+}
+
+li a:hover {
+  background-color: #ff1a7d;
+}
+
+.beginning {
+  height: 550px;
+}
+
+.space {
+  height: 100px;
+}
+
+.faqSpace {
+  height: 700px;
+}
+
+#how {
+  font-size: 3.5vw;
+}
+
+#break {
+  font-family: "Charm";
+  font-weight: bold;
+  color: #f6eef5;
+}
+
+.pink {
+  color: #E467B1;
+  font-size: 5vw;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.light {
+  color: #EA0E8F;
+}
+
+#citations {
+  background-color: #febed3;
+  border-top: 3vw solid #d24198;
+  border-bottom: 3vw solid #e567b1;
+}
+
+#sourcesH3 {
+  font-size: 2vw;
+  color: white;
+  font-family: "Charm";
+}
+
+.sourcesP {
+  color: white;
+  font-size: 1em;
+}
+
+.factBox {
+  background-color: #febed3;
+  border: 2vw solid #e567b1;
+  text-align: center;
+}
+
+#white {
+  font-size: 1.2vw;
+  color: white;
+}
+
+#myButton:hover {
+  cursor: pointer;
+}
+
+#fact {
+  font-weight: bold;
+  font-size: 2vw;
+}
+
+
+.space {
+  height: 40px; /* Adjust the height as needed */
+/* IMAGE STYLES */
+
+h2 {
+  margin-bottom: 30px; /* Adjust the value as needed */
+}
+
+/* Apply space between sections */
+.section p {
+  margin-top: 30px; /* Adjust the value as needed */
+}
+
+/* Other styles... */
+
+label[for="thoughts"] {
+  color: pink;
+}
+
+.video-container {
+  display: flex;
+}
+
+.video-container iframe {
+  width: 300px;
+  height: 200px;
+  margin-right: 10px; /* Add some spacing between videos */
+}

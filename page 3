@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>My Cause</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- import the webpage's stylesheets -->
+    <link rel="stylesheet" href="style.css" />
+    <script src="/script.js" defer></script>
+
+    <link
+    
+      rel="stylesheet"
+    />
+  </head>
+  <header class="homepage-heading">
+      <!--Top section with title and description-->
+    <img src="assets/652a924299d8320fc07656f8f01fb2c3.jpg" alt="self love" id="homePic" class="firstPics"> </div>
+      <h1>
+       ♛ How to Love Yourself ♛
+        
+      </h1>
+
+  <body>
+    
+    <nav>
+      <!-- Add the navigation bar here-->
+      <!-- nav bar-->    
+        <nav>
+    <ul>
+      <li>
+        <a href="index.html">Home ❤</a>
+      </li>
+      <li>
+        <a href="howtolove.html">How to Love ❤</a>
+         
+      </li>
+      <li>
+        <a href="importance.html">Importance ❤</a>
+      </li>
+    </ul>
+  </nav> 
+
+      
+    </header>
+     <h2>Practice Self-Compassion:</h2>
+  <p>Treat yourself with the same kindness and understanding that you would offer to a close friend. Acknowledge your imperfections and mistakes without harsh self-criticism.</p><div class="space"></div>
+   <div>
+      <img src="assets/e8b78ea21faa7018e6382cc35c33dd5e.jpg") alt="mirror" width="100%" height="100%"
+      </div>
+  
+  </div><div class="space"></div>
+
+  <div>
+    <h2>Positive Self-Talk:</h2>
+  <p>Pay attention to your inner dialogue and replace self-criticism with positive affirmations. Challenge negative thoughts and replace them with affirming and supportive statements.</p><div class="space"></div>
+  </div>
+   <img src="assets/76048002f6072a9383b0e7f5e0d261e2.jpg") alt="positive" width="100%" height="100%"
+      </div><div class="space"></div>
+
+  <div>
+  <h2>Prioritize Self-Care:</h2>
+  <p>Take care of your physical, mental, and emotional well-being. Engage in activities that bring you joy, relaxation, and fulfillment.</p><div class="space"></div>
+ </div>
+   <img src="assets/d009635168eb77a79aa9e0723b112302.jpg") alt="self care" width="100%" height="100%"
+      </div><div class="space"></div>
+
+  <div>
+    <h2>Set Boundaries</h2>
+    <p> Establish healthy boundaries in relationships and situations. Respect your own needs and limits, and don't hesitate to say no when necessary.</p><div class="space"></div>
+  </div>
+   <img src="assets/aaba23a80acedb870b2009b049e7279a.jpg") alt="boundaries" width="100%" height="100%"
+      </div><div class="space"></div>
+
+  <div>
+    <h2>Forgive Yourself:</h2>
+    <p>Let go of past mistakes and regrets. Understand that making errors is part of being human and an opportunity for growth.</p><div class="space"></div>
+  </div>
+   <img src="assets/e6a5bd8c32a354814f6bd44b16ff4b85.jpg") alt="forgivness" width="100%" height="100%"
+      </div><div class="space"></div>
+
+  <div>
+    <h2>Mindfulness and Self-Awareness:</h2>
+    <p>Practice mindfulness to stay present in the moment and connect with your thoughts and feelings. Self-awareness helps you understand yourself better.</p><div class="space"></div>
+  </div>
+   <img src="assets/3d5f6b2ac0e73305d079d59f9e99924d.jpg") alt="mindfulness" width="100%" height="100%"
+      </div><div class="space"></div>
+
+  <div>
+    <h2>Seek Support: </h2> 
+    <p>Reach out to friends, family, or professionals if you're struggling with self-love. Sometimes, getting an external perspective can be helpful.</p><div class="space"></div>
+  </div> 
+  <img src="assets/8228821d3dcf1d7539af56758945600e.jpg") alt="support group" width="100%" height="100%"
+      </div><div class="space"></div>
+
+        </p>
+
+    </main>
+  </body>
+</html>
